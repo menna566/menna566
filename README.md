@@ -1,6 +1,23 @@
 <h1 align='center'> Hi there 👋, I'm Menna Mostafa  </h1>
+# 💫 About Me:
+👨‍💻 I'm an AI engineer with a strong background in machine learning and deep learning, specializing in computer vision. I have a passion for discovering the Foundation behind any concept in the field and i'm actively seeking opportunities to work on real-world Projects 
+
+💼  I've spent nearly 2 years working on real-world projects in computer vision. using Frameworks like Tensorflow and Pytorch ,creating and using machine learning models for tasks like Objects Detection , image segmentation, and image classification tasks
+
+🔬 I possess a deep understanding of both classical computer vision methods and contemporary deep learning frameworks such as TensorFlow, PyTorch, and Keras. I am skilled in working with convolutional neural networks (CNNs), recurrent neural networks (RNNs), and generative adversarial networks (GANs).
+
+🌟  I work well in teams and I have worked In collaborative environments to eliver end-to-end AI solutions.I'm also experienced in preprocessing and augmenting large-scale image datasets, training deep learning models, and optimizing their performance for production deployment.
+
+Feel free to explore my GitHub repositories to see some of my work and projects and i'm also expert at kaggle so you can see my work there too.
+
+📫 You can reach me at mostafamenna304@gmail.com or connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menna-mostafa-1ab0311b7/)  to discuss collaborations, opportunities, or simply to chat about AI and computer vision.
+
+Looking forward to connecting with fellow AI enthusiasts and collaborating on exciting projects!
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menna-mostafa-1ab0311b7/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mennamostafa3)
 
 <div id="header" align="center">
 
