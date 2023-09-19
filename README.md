@@ -4,7 +4,13 @@
 
   <img src="https://media3.giphy.com/media/CSa4qEcVRYtNTuH7xn/giphy.gif?cid=6c09b952rj6ldwj2lyodcotgfhmjgc7yis1vyfvcrw3qz9i7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30%"/>
   
+  
 </div>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menna-mostafa-1ab0311b7/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mennamostafa3)
+
 💫 About Me:
 
 👨‍💻 I'm an AI engineer with a strong background in machine learning and deep learning, specializing in computer vision. I have a passion for discovering the Foundation behind any concept in the field and i'm actively seeking opportunities to work on real-world Projects 
@@ -22,9 +28,6 @@ Feel free to explore my GitHub repositories to see some of my work and projects 
 Looking forward to connecting with fellow AI enthusiasts and collaborating on exciting projects!
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menna-mostafa-1ab0311b7/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mennamostafa3)
 
 
 
