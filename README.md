@@ -23,7 +23,8 @@
 
 Feel free to explore my GitHub repositories to see some of my work and projects and i'm also expert at kaggle so you can see my work there too.
 
-📫 You can reach me at mostafamenna304@gmail.com or connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menna-mostafa-1ab0311b7/)  to discuss collaborations, opportunities, or simply to chat about AI and computer vision.
+📫 You can reach me at mennamustafahussien@gmail.com
+ or connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menna-mostafa-1ab0311b7/)  to discuss collaborations, opportunities, or simply to chat about AI and computer vision.
 
 Looking forward to connecting with fellow AI enthusiasts and collaborating on exciting projects!
 
