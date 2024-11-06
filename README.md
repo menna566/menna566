@@ -17,7 +17,7 @@
 
 💼  I've spent nearly 2 years working on real-world projects in computer vision. using Frameworks like Tensorflow and Pytorch ,creating and using machine learning models for tasks like Objects Detection , image segmentation, and image classification tasks
 
-🔬 I possess a deep understanding of both classical computer vision methods and contemporary deep learning frameworks such as TensorFlow, PyTorch, and Keras. I am skilled in working with convolutional neural networks (CNNs), recurrent neural networks (RNNs), and generative adversarial networks (GANs).
+🔬 I have a deep understanding of both classical computer vision methods and contemporary deep learning frameworks such as TensorFlow, PyTorch, and Keras. I am skilled in working with convolutional neural networks (CNNs), recurrent neural networks (RNNs), and generative adversarial networks (GANs).
 
 🌟  I work well in teams and I have worked In collaborative environments to eliver end-to-end AI solutions.I'm also experienced in preprocessing and augmenting large-scale image datasets, training deep learning models, and optimizing their performance for production deployment.
 
